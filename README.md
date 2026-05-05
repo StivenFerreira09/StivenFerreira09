@@ -1,16 +1,51 @@
-## Hi there 👋
+<h2 align="center">Stiven Ferreira Espinosa</h2>
 
-<!--
-**StivenFerreira09/StivenFerreira09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Perfil📌 ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Nombre:* Stiven Ferreira Espinosa
+
+*Usuario:* StivenFerreira09
+
+*Correo electrónico:* stiven.x.cn@gmail.com
+
+*CODE_SENA_URL:* https://github.com/code-sena
+
+*Organización institucional:* https://github.com/code-sena
+
+## Programa de formación💭 ##
+
+Actualmente me encuentro en proceso de formación en el programa:
+
+Análisis y Desarrollo de Software (ADSO)
+
+También cuento con un tecnólogo en Asistencia Administrativa.
+
+
+
+
+## Fechas importantes📅 ##
+
+Fecha de ingreso: 25 de julio de 2025
+
+Fecha de finalización estimada: 16 de diciembre de 2026
+
+Disponibilidad
+Lunes a viernes: 18:00 – 24:00
+
+
+## Tecnologías💻 ##
+
+Actualmente me encuentro trabajando con algunas herramientas y, a futuro, espero continuar fortaleciendo mis conocimientos en:
+
+Java
+
+C#
+
+Angular
+
+Docker
+
+## Enfoque🧠 ##
+
+Mi objetivo es adquirir las competencias necesarias en el desarrollo de software, con el fin de crear soluciones eficientes y adaptadas a las necesidades del entorno.
