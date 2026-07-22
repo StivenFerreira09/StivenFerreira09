@@ -17,26 +17,31 @@ CODE_SENA_URL: https://github.com/code-sena
 
 ## 🎓 Formación
 
-Actualmente curso el programa **Análisis y Desarrollo de Software (ADSO)** en el SENA y cuento con un tecnólogo en **Asistencia Administrativa**.
-
-## 📅 Información
-
-- **Inicio:** 25 de julio de 2025
-- **Finalización estimada:** 16 de diciembre de 2026
-- **Disponibilidad:** Lunes a viernes, 6:00 p. m. – 12:00 a. m.
+Actualmente curso el programa **Análisis y Desarrollo de Software (ADSO)** en el **SENA**. Además, cuento con un tecnólogo en **Asistencia Administrativa**, formación que me ha permitido desarrollar habilidades sociales, comunicativas y de trabajo en equipo. Esto complementa mi proceso de aprendizaje en el área de la tecnología, participando activamente en proyectos académicos y fortaleciendo mis competencias en el desarrollo de software.
 
 ## 💻 Tecnologías
 
-Actualmente trabajo y continúo aprendiendo sobre:
+### 📚 Lenguajes
 
-- Java
-- C#
+- ☕ Java
+
+### 🌐 Frameworks
+
 - Angular
-- Docker
-- Git y GitHub
+
+### 🗃️ Bases de Datos
+
 - MySQL
+
+### 🛠️ Herramientas
+
+- Docker
+- GitHub
+- Figma
 
 ## 🎯 Objetivo
 
-Mi objetivo es fortalecer mis habilidades en desarrollo de software para crear soluciones eficientes, adquirir experiencia en proyectos reales y continuar aprendiendo nuevas tecnologías.
+Mi objetivo es fortalecer mis habilidades en desarrollo de software para crear soluciones eficientes, adquirir experiencia en proyectos reales y continuar aprendiendo.
+
+
 
