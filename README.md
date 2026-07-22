@@ -1,51 +1,42 @@
-<h2 align="center">Stiven Ferreira Espinosa</h2>
+<!--
+CONFIG
+FULL_NAME: Stiven Ferreira Espinosa
+GITHUB_USER: StivenFerreira09
+EMAIL: stiven.x.cn@gmail.com
+CODE_SENA_URL: https://github.com/code-sena
+-->
 
+<h2 align="center">👋 Stiven Ferreira Espinosa</h2>
 
-## Perfil📌 ##
+## 👤 Perfil
 
-*Nombre:* Stiven Ferreira Espinosa
+- **Nombre:** Stiven Ferreira Espinosa
+- **Usuario GitHub:** StivenFerreira09
+- **Correo:** stiven.x.cn@gmail.com
+- **Organización:** https://github.com/code-sena
 
-*Usuario:* StivenFerreira09
+## 🎓 Formación
 
-*Correo electrónico:* stiven.x.cn@gmail.com
+Actualmente curso el programa **Análisis y Desarrollo de Software (ADSO)** en el SENA y cuento con un tecnólogo en **Asistencia Administrativa**.
 
-*CODE_SENA_URL:* https://github.com/code-sena
+## 📅 Información
 
-*Organización institucional:* https://github.com/code-sena
+- **Inicio:** 25 de julio de 2025
+- **Finalización estimada:** 16 de diciembre de 2026
+- **Disponibilidad:** Lunes a viernes, 6:00 p. m. – 12:00 a. m.
 
-## Programa de formación💭 ##
+## 💻 Tecnologías
 
-Actualmente me encuentro en proceso de formación en el programa:
+Actualmente trabajo y continúo aprendiendo sobre:
 
-Análisis y Desarrollo de Software (ADSO)
+- Java
+- C#
+- Angular
+- Docker
+- Git y GitHub
+- MySQL
 
-También cuento con un tecnólogo en Asistencia Administrativa.
+## 🎯 Objetivo
 
+Mi objetivo es fortalecer mis habilidades en desarrollo de software para crear soluciones eficientes, adquirir experiencia en proyectos reales y continuar aprendiendo nuevas tecnologías.
 
-
-
-## Fechas importantes📅 ##
-
-Fecha de ingreso: 25 de julio de 2025
-
-Fecha de finalización estimada: 16 de diciembre de 2026
-
-Disponibilidad
-Lunes a viernes: 18:00 – 24:00
-
-
-## Tecnologías💻 ##
-
-Actualmente me encuentro trabajando con algunas herramientas y, a futuro, espero continuar fortaleciendo mis conocimientos en:
-
-Java
-
-C#
-
-Angular
-
-Docker
-
-## Enfoque🧠 ##
-
-Mi objetivo es adquirir las competencias necesarias en el desarrollo de software, con el fin de crear soluciones eficientes y adaptadas a las necesidades del entorno.
