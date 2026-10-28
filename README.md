@@ -1,47 +1,47 @@
-<!--
-CONFIG
-FULL_NAME: Stiven Ferreira Espinosa
-GITHUB_USER: StivenFerreira09
-EMAIL: stiven.x.cn@gmail.com
-CODE_SENA_URL: https://github.com/code-sena
--->
+<div align="center">
 
-<h2 align="center">👋 Stiven Ferreira Espinosa</h2>
+# Stiven Ferreira Espinosa
+### Desarrollador de Software | ADSO - SENA
 
-## 👤 Perfil
+</div>
 
-- **Nombre:** Stiven Ferreira Espinosa
-- **Usuario GitHub:** StivenFerreira09
-- **Correo:** stiven.x.cn@gmail.com
-- **Organización:** https://github.com/code-sena
+---
 
-## 🎓 Formación
+## Resumen Profesional
 
-Actualmente curso el programa **Análisis y Desarrollo de Software (ADSO)** en el **SENA**. Además, cuento con un tecnólogo en **Asistencia Administrativa**, formación que me ha permitido desarrollar habilidades sociales, comunicativas y de trabajo en equipo. Esto complementa mi proceso de aprendizaje en el área de la tecnología, participando activamente en proyectos académicos y fortaleciendo mis competencias en el desarrollo de software.
+Estudiante del programa **Análisis y Desarrollo de Software (ADSO)** en el SENA, con titulación tecnológica en **Asistencia Administrativa**. Mi trayectoria combina la lógica del desarrollo de software con habilidades sólidas en gestión, comunicación y trabajo en equipo, enfocándome en la creación de soluciones digitales eficientes, estructuradas y mantenibles.
 
-## 💻 Tecnologías
+---
 
-### 📚 Lenguajes
+## Información de Contacto
 
-- ☕ Java
+- **GitHub:** [github.com/StivenFerreira09](https://github.com/StivenFerreira09)
+- **Correo Electrónico:** [stiven.x.cn@gmail.com](mailto:stiven.x.cn@gmail.com)
+- **Organización:** [github.com/code-sena](https://github.com/code-sena)
 
-### 🌐 Frameworks
+---
 
-- Angular
+## Competencias Técnicas
 
-### 🗃️ Bases de Datos
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes de Programación** | Java |
+| **Frameworks** | Angular |
+| **Bases de Datos** | MySQL |
+| **Herramientas y Entornos** | Docker, Git, GitHub, Figma |
 
-- MySQL
+---
 
-### 🛠️ Herramientas
+## Formación Académica
 
-- Docker
-- GitHub
-- Figma
+- **Tecnología en Análisis y Desarrollo de Software (ADSO)**  
+  *SENA* — En formación
 
-## 🎯 Objetivo
+- **Tecnología en Asistencia Administrativa**  
+  *SENA*
 
-Mi objetivo es fortalecer mis habilidades en desarrollo de software para crear soluciones eficientes, adquirir experiencia en proyectos reales y continuar aprendiendo.
+---
 
+## Objetivo Profesional
 
-
+Consolidar y expandir mis habilidades en el desarrollo de software mediante la participación en proyectos reales y dinámicos, aportando valor en el diseño e implementación de aplicaciones robustas mientras mantengo un proceso continuo de aprendizaje técnico.
